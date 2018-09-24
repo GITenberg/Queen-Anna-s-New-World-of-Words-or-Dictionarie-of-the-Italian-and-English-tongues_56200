@@ -1,5 +1,8 @@
 _repo: Queen-Anna-s-New-World-of-Words-or-Dictionarie-of-the-Italian-and-English-tongues_56200
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56200-h/images/cover.jpg
 creator:
   author:
     agent_name: Florio, John
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '44839'
     url: http://www.gutenberg.org/2009/agents/44839
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56200#Queen-Anna-s-New-World-of-Words-or-Dictionarie-of-the-Italian-and-English-tongues
 gutenberg_issued: '2017-12-18'
 gutenberg_type: Text
 identifiers:
